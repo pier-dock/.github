@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Uma dock em <strong>vidro líquido</strong> que substitui a barra do sistema: seus apps, o que está tocando,<br>
+  Uma dock que substitui a barra do sistema: seus apps, o que está tocando,<br>
   os pull requests do GitHub e o status do sistema, numa barra só.
 </p>
 
@@ -32,17 +32,11 @@
   </tr>
 </table>
 
-## Vidro de verdade, em cada sistema
+## Plataformas
 
-O desfoque vem do próprio sistema, não de um efeito na página:
-
-| Sistema | Material |
-| --- | --- |
-| **macOS** 12+ | Liquid Glass (macOS 26) ou vibrancy |
-| **Windows 11** | Acrylic na dock e nos popovers, Mica nas configurações |
-| **Linux** | Blur do KWin; no GNOME, material sólido (com extensão própria para janelas, atalhos e área reservada) |
-
-Onde o sistema não desenha vidro, o Pier usa um material sólido. Opacidade, material e cor de destaque (Coral, Azul, Verde, Âmbar, Lilás) ficam nas configurações.
+- **macOS** 12 ou mais recente.
+- **Windows** 10 e 11.
+- **Linux** com GNOME (com a extensão do Pier para janelas, atalhos e área reservada) ou outras interfaces em sessões X11.
 
 ## Feito com
 
