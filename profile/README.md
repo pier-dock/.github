@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pier-dock/.github/main/profile/assets/banner.png" alt="Pier — a dock para macOS, Windows e Linux" width="100%">
+  <img src="https://raw.githubusercontent.com/pier-dock/.github/main/profile/assets/pier-banner.png" alt="Pier — sua dock com seus widgets preferidos" width="100%">
 </p>
 
 <p align="center">
