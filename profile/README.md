@@ -37,7 +37,3 @@
 - **macOS** 12 ou mais recente.
 - **Windows** 10 e 11.
 - **Linux** com GNOME (com a extensão do Pier para janelas, atalhos e área reservada) ou outras interfaces em sessões X11.
-
-## Feito com
-
-[Tauri 2](https://tauri.app) (Rust) · React · TypeScript · [Geist](https://vercel.com/font)
